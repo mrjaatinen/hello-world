@@ -1,3 +1,4 @@
 # hello-world
-Ensimmäinen testi;
-Tässä testailen
+Ensimmäinen testi.
+Tässä testailen.
+Hehe.
